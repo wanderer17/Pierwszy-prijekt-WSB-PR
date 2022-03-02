@@ -1,1 +1,0 @@
-Projekt WSB w ramach zajęć z przedmiotu Systemy kotroli wersji
